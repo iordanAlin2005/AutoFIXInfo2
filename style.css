@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: linear-gradient(135deg, #6a00f4, #9333ea);
+    color: white;
+    min-height: 100vh;
+}
+header {
+    padding: 2rem;
+    text-align: center;
+}
+input {
+    padding: 0.5rem;
+    border-radius: 8px;
+    border: none;
+    width: 80%;
+    max-width: 400px;
+}
+main {
+    padding: 2rem;
+}
+.car {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 1rem 0;
+    padding: 1rem;
+    border-radius: 12px;
+}
+.loading-screen {
+    text-align: center;
+    padding: 100px 20px;
+    font-size: 1.5rem;
+}
